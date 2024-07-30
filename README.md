@@ -3,13 +3,14 @@
 
 # Face Recognition
 
-![image](https://github.com/user-attachments/assets/d64dd2fd-8d72-417d-bf2e-90b4471c14d7)
+<img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/48d8799e-2676-4333-8a07-a9583a663182">
 
 
 # Object Recognetion
 
-![image](https://github.com/user-attachments/assets/03acff2e-e5ac-44b6-a694-d13e792e3761)
+<img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/a478e287-e164-4ea1-b7c9-b509aafb00ea">
+
 
 # Tag Recognition
 
- ![image](https://github.com/user-attachments/assets/0b69b1d6-3302-4ff9-9552-eadd455308ce)
+<img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/c3c9b03b-954c-4bec-91ed-fd955fc643ac">
