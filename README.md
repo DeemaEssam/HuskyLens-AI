@@ -1,7 +1,7 @@
 # HuskyLens-AI
 
 
-3## Face Recognition
+### Face Recognition
 
 <img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/48d8799e-2676-4333-8a07-a9583a663182">
 
