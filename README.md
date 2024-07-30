@@ -19,4 +19,4 @@
 
 ## Line Tracking
 
-![image](https://github.com/user-attachments/assets/a69e80da-cfc9-4329-8595-7906ba79c64b)
+<img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/a69e80da-cfc9-4329-8595-7906ba79c64b">
