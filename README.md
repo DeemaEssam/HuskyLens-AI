@@ -1,16 +1,16 @@
 # HuskyLens-AI
 
 
-# Face Recognition
+## Face Recognition
 
 <img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/48d8799e-2676-4333-8a07-a9583a663182">
 
 
-# Object Recognetion
+## Object Recognetion
 
 <img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/a478e287-e164-4ea1-b7c9-b509aafb00ea">
 
 
-# Tag Recognition
+## Tag Recognition
 
 <img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/c3c9b03b-954c-4bec-91ed-fd955fc643ac">
