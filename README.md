@@ -19,4 +19,4 @@
 
 ## Line Tracking
 
-![image](https://github.com/user-attachments/assets/adf7f615-fffb-4a9b-82d6-9f13b607d9ea)
+![image](https://github.com/user-attachments/assets/a69e80da-cfc9-4329-8595-7906ba79c64b)
