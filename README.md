@@ -1,5 +1,18 @@
 # HuskyLens-AI
 
+| ###Face Recognition  | ### Object Recognetion  | ### Tag Recognition  | ## Line Tracking
+| ------------- | ------------- |
+| <img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/48d8799e-2676-4333-8a07-a9583a663182"> | <img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/a478e287-e164-4ea1-b7c9-b509aafb00ea"> | <img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/c3c9b03b-954c-4bec-91ed-fd955fc643ac"> | <img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/a69e80da-cfc9-4329-8595-7906ba79c64b">
+
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
 
 ### Face Recognition
 
@@ -14,7 +27,6 @@
 ### Tag Recognition
 
 <img width="294" alt="Screenshot 2024-07-30 222506" src="https://github.com/user-attachments/assets/c3c9b03b-954c-4bec-91ed-fd955fc643ac">
-
 
 
 ## Line Tracking
