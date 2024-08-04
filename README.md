@@ -1,4 +1,4 @@
-# 1_HuskyLens
+# 1_Use the built-in functions in HuskyLens
 
 | Face Recognition  | Object Recognetion  | Tag Recognition  | Line Tracking
 | ------------- | ------------- | ------------- | ------------- |
