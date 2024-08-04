@@ -1,4 +1,4 @@
-# HuskyLens-AI
+# 1_HuskyLens
 
 | Face Recognition  | Object Recognetion  | Tag Recognition  | Line Tracking
 | ------------- | ------------- | ------------- | ------------- |
@@ -6,7 +6,7 @@
 
 
 
-# HuskyLens Face Detection and LED Control
+# 2_Build a function in HuskyLens for face detection and LED control
 
 ![husky](https://github.com/user-attachments/assets/cefb9b1d-9fa1-405d-8848-fd98f287ba11)
 
